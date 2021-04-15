@@ -14,3 +14,5 @@ HTMLファイルやらなんやらが入っています
 ## ライセンスについて
 このリポジトリ内のコードはMITライセンスの元頒布されています。
 ご自由にお使いください。
+
+This software is released under the MIT License, see LICENSE.
